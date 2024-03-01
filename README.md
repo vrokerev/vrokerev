@@ -2,7 +2,7 @@
 
 <h3 align="center">🔥 I am a dedicated and passionate developer 💻 <br><br><br>
 
-<img src="https://cdn.discordapp.com/attachments/1213161508230668360/1213161568292962354/banner_github.png?ex=65f477c1&is=65e202c1&hm=4278aafcfd8b4376006f4c77248c96204bed09754756a2e4485f138c08d575a5&" alt="Descripción de la imagen" style="display: block; margin: auto;"><br>
+<img src="banner_github.png" alt="Descripción de la imagen" style="display: block; margin: auto;"><br>
 
 <h3 align="left">Connect with me:</h3>
 
