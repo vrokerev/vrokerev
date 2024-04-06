@@ -6,7 +6,7 @@
 
 <h3 align="left">Connect with me:</h3>
 
-- 🌱 I’m currently learning **.NET and Cobol**
+- 🌱 I’m currently learning **.NET & Typescript**
 
 
 <h3 align="left">Connect with me:</h3>
