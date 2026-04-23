@@ -1,20 +1,50 @@
-<h1 align="center">Hi 👋, I'm Victor Meneses</h1><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1a1a2e,100:16213e&height=120&section=header"/>
 
-<h3 align="center">🔥 I am a dedicated and passionate developer 💻 <br><br><br>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey+there%2C+I'm+Victor+%F0%9F%91%8B;Full+Stack+Developer+%F0%9F%9A%80;Building+cool+things+%F0%9F%94%A5" alt="Typing SVG" />
+</div>
 
-<img src="banner_github.png" alt="Descripción de la imagen" style="display: block; margin: auto;"><br>
+<img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
-<h3 align="left">Connect with me:</h3>
+### 🧑‍💻 About Me
+- 🎓 Studying Computer Science at UPC — Lima, Perú
+- 🔭 Currently building StockMind – InventoryPro, an inventory platform for small stores
+- 🌱 Deep-diving into **.NET & TypeScript**
+- 💼 Familiar with Scrum, DDD, and agile project management
+- 📬 Reach me at **vmeneses782000@gmail.com**
+- ⚡ Fun fact: I turn ☕ into clean code and late-night bugs into features
 
-- 🌱 I’m currently learning **.NET & Typescript**
+<br clear="right"/>
 
+### 🛠️ Languages & Tools
 
-<h3 align="left">Connect with me:</h3>
+<div align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=cpp,cs,ts,html,css,flutter,dotnet,nodejs,mongodb,python,git&perline=8" alt="Mis Tecnologías" />
+  </a>
+</div>
 
-- 📫 How to reach me **vmeneses782000@gmail.com**
+### 📊 GitHub Stats
 
-<p align="left">
-</p>
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VictorMRojas&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117" alt="Mis Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMRojas&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="Lenguajes Top" />
+</div>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=VictorMRojas&theme=tokyonight&hide_border=true&background=0d1117&ring=58A6FF&fire=FF6B6B&currStreakLabel=58A6FF" alt="GitHub Streak"/>
+</div>
+
+### 🌐 Connect with Me
+
+<div align="center">
+  <a href="mailto:vmeneses782000@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+</div>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=VictorMRojas&label=Profile%20Views&color=58A6FF&style=flat" alt="Profile views" />
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:16213e,50:1a1a2e,100:0d1117&height=100&section=footer"/>
